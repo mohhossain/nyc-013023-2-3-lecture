@@ -1,3 +1,10 @@
 body{
     text-align: center;
 }
+
+/* make the books div centered and with a blue background */
+/* #books{
+    background-color: blue;
+    margin: 0 auto;
+    width: 50%;
+} */
